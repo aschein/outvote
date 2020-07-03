@@ -17,3 +17,4 @@ The data file [outvote_data.csv](https://github.com/aschein/outvote/blob/master/
 * Q: position in first queue (1,2,3,... or NaN)
 
 The refined study population consists of subjects with M=1 and Q <= 103.
+ 
