@@ -30,4 +30,4 @@ SOFTWARE.
 
 ## Details of data
 
-The data file [outvote_data.csv](https://github.com/aschein/outvote/blob/master/dat/outvote_data.csv) contains anonymized data for all n=195,118 eligible subjects. Each row contains a subject's treatment assignment $Z_i$ 
+The data file [outvote_data.csv](https://github.com/aschein/outvote/blob/master/dat/outvote_data.csv) contains anonymized data for all n=195,118 eligible subjects. Each row contains a subject's treatment assignment $Z$ 
